@@ -1,22 +1,22 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Chris Zheng
+bio: Aspiring Time Traveler
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Technical Blog
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
+external-image: true
+picture: https://avatars3.githubusercontent.com/u/1455572?s=400&u=1bd96d0c1e1176883051f2832a1508155861fd9b&v=4
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+resume: false
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://zcaudate.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -30,11 +30,11 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
+  shortname: zcaudate # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+# facebook: myfacebook
 twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
@@ -42,30 +42,24 @@ twitter: mytwitter
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: zcaudate
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
-# reddit: username
-medium: medium
+reddit: zcaudate 
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: myemail@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
-        external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        name: Chris Zheng
+        bio: Aspiring Time Traveler
+        external-image: true
+        picture: https://avatars3.githubusercontent.com/u/1455572?s=400&u=1bd96d0c1e1176883051f2832a1508155861fd9b&v=4
+        twitter: zcaudate
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
